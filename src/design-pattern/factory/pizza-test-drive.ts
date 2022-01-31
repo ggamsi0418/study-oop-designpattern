@@ -1,5 +1,4 @@
-import {ChicagoPizzaStore} from './store/chicago';
-import {NYPizzaStore} from './store/ny';
+import {NYPizzaStore, ChicagoPizzaStore} from './store';
 
 class PizzaTestDrive {
   static main(): void {
